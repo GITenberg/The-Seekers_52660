@@ -1,5 +1,5 @@
 _repo: The-Seekers_52660
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Royce, Josiah
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '36532'
     url: http://www.gutenberg.org/2009/agents/36532
     wikipedia: http://en.wikipedia.org/wiki/Josiah_Royce
+covers:
+- cover_type: archival
+  image_path: 52660-h/images/cover.jpg
 creator:
   author:
     agent_name: Sampter, Jessie E. (Jessie Ethel)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '46985'
     url: http://www.gutenberg.org/2009/agents/46985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52660#The-Seekers
 gutenberg_issued: '2016-07-27'
 gutenberg_type: Text
 identifiers:
