@@ -1,0 +1,33 @@
+_repo: The-Seekers_52660
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Royce, Josiah
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '36532'
+    url: http://www.gutenberg.org/2009/agents/36532
+    wikipedia: http://en.wikipedia.org/wiki/Josiah_Royce
+creator:
+  author:
+    agent_name: Sampter, Jessie E. (Jessie Ethel)
+    birthdate: 1883
+    deathdate: 1938
+    gutenberg_agent_id: '46985'
+    url: http://www.gutenberg.org/2009/agents/46985
+description: ''
+gutenberg_issued: '2016-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52660'
+  lccn: '11000923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy and religion -- Study and teaching (Secondary) -- United States'
+- !lcc 'BD'
+- GITenberg
+title: The Seekers
+url: http://www.gutenberg.org/ebooks/52660
